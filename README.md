@@ -13,3 +13,6 @@ SELECT * FROM tab_usuario;
 UPDATE tab_usuario SET role = 'ROLE_ADMIN' WHERE id = 1;
 
 ```
+
+
+https://www.youtube.com/watch?v=qEBoZ8lJR3k
